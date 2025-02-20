@@ -2,10 +2,9 @@
 
 Desenvolvido por [Robson Pinheiro](https://www.linkedin.com/in/robsonrogerio/)
 
-Acesse os dados no [Kaggle] (https://www.kaggle.com/datasets/kevwesophia/fifa23-official-datasetclean-data)
+Acesse os dados no [Kaggle](https://www.kaggle.com/datasets/kevwesophia/fifa23-official-datasetclean-data)
 
-    O conjunto de dados
-    de jogadores de futebol de 2017 a 2023 fornece informações 
+    O conjunto de dados de jogadores de futebol de 2017 a 2023 fornece informações 
     abrangentes sobre jogadores de futebol profissionais.
     O conjunto de dados contém uma ampla gama de atributos, incluindo dados demográficos 
     do jogador, características físicas, estatísticas de jogo, detalhes do contrato e 
